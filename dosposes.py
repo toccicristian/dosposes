@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#   Este programa genera archivos CSV de 4 valores por registro para fusiones en corel
+#   Este programa genera archivos CSV de 2 valores por registro para fusiones en corel
 #   Copyright (C) 2024 Cristian Tocci
 
 #   This program is free software: you can redistribute it and/or modify
@@ -21,7 +21,7 @@
 
 licencias=dict()
 licencias['gplv3']="""
-    csv_dosposes.py  Copyright (C) 2024  Cristian Tocci
+    dosposes.py  Copyright (C) 2024  Cristian Tocci
     This program comes with ABSOLUTELY NO WARRANTY; for details
     press `Ctrl + w'.
     This is free software, and you are welcome to redistribute it
